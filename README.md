@@ -57,4 +57,23 @@ EA=0 IDA_DIR=<PATH_TO_IDA> IDA_SDK=<PATH_TO_IDA_SDK> make install -f makefile.ln
 
 # Windows build
 
-Open the Visual Studio and hope for the best. Didn't test :-).
+Open the Visual Studio project and hope for the best. Didn't test :-)
+
+# IDA SDK References
+
+* [Augmenting IDA UI with your own actions](https://www.hex-rays.com/blog/augmenting-ida-ui-with-your-own-actions/)
+
+# Deobfuscation references
+
+* [Deobfuscation: recovering an OLLVM-protected program](https://blog.quarkslab.com/deobfuscation-recovering-an-ollvm-protected-program.html)
+
+* [Defeating Compiler-Level Obfuscations Used in APT10 Malware](https://www.carbonblack.com/blog/defeating-compiler-level-obfuscations-used-in-apt10-malware/)
+
+* [Reverse Engineering Snapchat (Part I): Obfuscation Techniques](https://hot3eed.github.io/snap_part1_obfuscations.html)
+
+* [SATURN Software deobfuscation framework based on LLVM](https://blog.zimperium.com/saturn-software-deobfuscation-framework-based-on-llvm/)
+
+* [Binary Deobfuscation: Preface](https://calwa.re/reversing/obfuscation/binary-deobfuscation-preface)
+
+* [Dissecting LLVM Obfuscator Part 1](https://rpis.ec/blog/dissection-llvm-obfuscator-p1/)
+
